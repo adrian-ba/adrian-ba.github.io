@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+## Recipe: Jaffna Kool
 
-You can use the [editor on GitHub](https://github.com/adrian-ba/adrian-ba.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Ingredients (10 portions):
+5 dl   Odiyal flour
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2 l    Water
 
-### Markdown
+3 dl   White rice
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1 tbsp Salt
 
-```markdown
-Syntax highlighted code block
+1.5 kg Salmon (Can be replaced with other types of fish)
 
-# Header 1
-## Header 2
-### Header 3
+1 tbsp Turmeric powder
 
-- Bulleted
-- List
+500 g  Crab
 
-1. Numbered
-2. List
+500 g  Shrimp and/or Prawn
 
-**Bold** and _Italic_ and `Code` text
+100 g  Long beans
 
-[Link](url) and ![Image](src)
-```
+1 whole Cassava root (300 - 500g)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+5 tbsp Dried chili flakes
 
-### Jekyll Themes
+1 tsp  Dry Ginger powder
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adrian-ba/adrian-ba.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+5 dl   Tamarind juice
 
-### Support or Contact
+2      Whole garlic bulbs
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+### Instructions:
+Mix the Odiyal flour with 1 liter of cold water the day before, and let it soak during the night.
+
+Prewash the rice and bring the water to a boil.
+
+Once the water is boiling, add Rice, Salt, Salmon and Turmeric powder. 
+
+Put a lid on the casserole, and let it cook for 10 minutes.
+
+
+Remove the lid, and add Crab and Shrimp/Prawn. 
+
+Put the lid back on, and let it cook for antoher 10 minutes.
+
+
+Wash and cut the Long beans to 2cm lengthwise, peel the Cassava root and slice it in 4 long pieces. Slice each long piece into 2cm thick cuts
+
+Add the cut Long beans, Cassava root, Chili flakes and Ginger powder. 
+
+Put the lid back on, and let it cook for antoher 5 minutes.
+
+
+Add Tamarind juice along with the Odiyal flour.
+
+Put the lid back on, and let it cook for antoher 10 minutes.
+
+
+Add crushed Garlic 
+
+Let it stew for 2-3 min on low heat.
